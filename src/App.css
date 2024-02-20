@@ -1,0 +1,8 @@
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 8%);
+  height: 100vh;
+  width: 100vw;
+}

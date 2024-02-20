@@ -1,0 +1,34 @@
+.maincard {
+  background-color: hsl(0, 0%, 12%);
+  width: 30%;
+  height: 80%;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  margin-top: 2%;
+}
+
+.location {
+  color: hsl(75, 94%, 57%);
+}
+
+.job {
+  color: white;
+}
+
+.author {
+  color: white;
+}
