@@ -1,5 +1,5 @@
 import { useState } from "react";
-import LinkCard from "./LinkCard";
+// import LinkCard from "./LinkCard";
 import "./MainCard.css";
 import profile from "./profile.jpg";
 
